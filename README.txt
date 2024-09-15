@@ -1,0 +1,1 @@
+This repo also contains many sprites and other assets that I did not make. They can be found on the Asset store - https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662
